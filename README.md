@@ -1,6 +1,23 @@
-## Learning C
-This repo is a collection of assignments and mini-programs/projects for beginners trying to learn C.
+# Learning C
 
-**WARNING: During this excercise you will be learning along with me, I am not your teacher, but your peer. I don't know anything about writing robust/correct C, I'm learning just as you are learning. Do not think that these examples are correct.**
+這是一個初步練習寫 C 語言的專案，內容是從 [h0mbre/Learning-C](https://github.com/h0mbre/Learning-C) 但只選了幾題讓實驗室的成員可以練習。
 
-Try to complete each task without looking at the solution!
+## 練習目的
+
+1. 肌肉記憶。打字已經不再是問題的情況下，接下來就是寫程式的紀律，這部份就是要肌肉紀憶(就是多寫就對了!)
+2. 注意細節。寫程式的時候，多數的 bug 都發生在少一個符號或是逗點，錯一點點就全錯，真的需要很小心。而這部份也是一樣，只有 **練習、練習、再練習**!!
+3. C 語言的知識很多，其中指標 pointer 又是很重要的內容。而由指標延申出去的自定義資料節構，又是很重要的知識 (練習 21)，特別是對記憶體操作上的內容，都是讓各位能熟悉 C 語言的範例。
+
+## 做法
+
+1. 打開 `sample_codes/` 裡面的內容，一個目錄一題，全部 14 題
+2. 依 `sample_codes/` 一題一題建立目錄，並依範例程式打到 `your_code_here/`
+3. 確定你的程式可以運行，如每個目錄裡的 `README.md` 所述
+4. 完成後，把所有的程式碼上傳到你的學號 branch 裡 (不要蓋到 `main` 喔!)
+5. 寫的過程，可以不用抄註解，只要程式能正確可以運行。
+6. 運行有任何問題，都可以寫信問我
+
+## Coding conventions 程式編寫規範
+1. 是抄別人的程式碼，所以主程式結構不用改變。 :point_right: 能正確運行為主。
+2. 一定要格式化、一定要格式化、一定要格式化!!! 
+
