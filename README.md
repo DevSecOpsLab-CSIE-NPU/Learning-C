@@ -25,3 +25,6 @@
 2. 一定要格式化、一定要格式化、一定要格式化！✨
 
 email to: AugChao@gms.NPU.edu.tw
+
+
+Links: [ClickUp issue](https://app.clickup.com/t/86eqd2d0y)
