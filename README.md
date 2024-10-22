@@ -27,4 +27,4 @@
 email to: AugChao@gms.NPU.edu.tw
 
 
-Links: [ClickUp issue](https://app.clickup.com/t/86eqd2d0y)
+Links: [ClickUp: C 程式練習](https://app.clickup.com/t/86eqh7tgg), [ClickUp: C 語言分享](https://app.clickup.com/t/86eqd2d0y)
