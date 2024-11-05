@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main(int argc, char *argv[]) {
     string first, last;
 
     cout << "Enter your first name: ";
